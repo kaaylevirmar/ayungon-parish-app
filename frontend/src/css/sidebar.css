@@ -1,0 +1,29 @@
+.sidebar{
+    width:  300px;
+    height: 100vh;
+    background-color: white;
+    color: black;
+ 
+    }
+
+.navlink ul {
+
+    display:  flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.navlink ul li {
+    
+    padding: 10px;
+
+}
+
+.navlink ul li:hover {
+    
+  transform: scale(1.1);
+
+}
